@@ -19,9 +19,9 @@ int main(int argc, char const *argv[])
 				/* code */
 			}
 			
-			/* code */
+			
 		}
-		/* code */
+		 
 	}
 
 	for (int i = 0; i < last; ++i)
